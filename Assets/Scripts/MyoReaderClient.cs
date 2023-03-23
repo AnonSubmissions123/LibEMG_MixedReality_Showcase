@@ -25,7 +25,7 @@ public class MyoReaderClient : MonoBehaviour {
 
     private int port = 8099;
     private string host = "127.0.0.1";
-    private string ipAddress = "192.168.2.51"; //Computer IP
+    private string ipAddress = "x.x.x.x"; // Replace with computer IP
     private string portUWP = "8099";
     public string control = "Starting!";
     public int consecutive = 0;
